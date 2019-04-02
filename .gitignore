@@ -1,0 +1,8 @@
+*.psd
+outputGIF
+outputAVI
+*.VSP
+*.asv
+*.avi
+test*.m
+input_*
